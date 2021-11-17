@@ -1,0 +1,28 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "Spanish"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "aadce98f-d4f3-8608-de20-134ce8fb3180"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Oral Communication in Spanish",
+  "course_description": "A second-year intermediate course that includes vocabulary enhancement and limited review of selected points of grammar. Focuses on listening comprehension and speaking, with group activities, discussions and individual oral reports based on readings, films, music and art.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.705",
+  "learning_resource_types": [
+    "Activity Assignments",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
